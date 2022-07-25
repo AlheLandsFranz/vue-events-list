@@ -1,2 +1,2 @@
 # vue-events-list
-I did this project while I was learning about Vue.js. 
+I made this project while learning about Vue.js with the geniuses at VueMastery.
